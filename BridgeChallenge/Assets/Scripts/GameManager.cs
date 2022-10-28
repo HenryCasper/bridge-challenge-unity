@@ -36,7 +36,7 @@ public class GameManager : MonoBehaviour
 
         //Initialize game variables
         level = 1;
-        nextlevelscore = 10;
+        nextlevelscore = 100;
         gridmax = 10;
         instantiatedcollectables = 0;
         numofpushedobjects = 0;
